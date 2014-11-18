@@ -2,7 +2,7 @@
 # Main script to process the data set and creates two tidy data sets as output.
 #
 # Set the (local) working directory.  Remove next sentence in Github environment
-Setwd(“C:\\BenD\\Data Science”)
+# Setwd(“C:\\BenD\\Data Science”)
 
 
 # Check existence of directory. If not exist, create the directory and download the data set into it.
